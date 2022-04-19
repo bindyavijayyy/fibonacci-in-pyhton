@@ -1,4 +1,4 @@
-# fibonacci-in-pyhton
+# fibonacci-in-python
 bindya
 n = int(input("Enter the value of 'n': "))
 a = 0
